@@ -8,7 +8,7 @@
     <artifactId>Jspark</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>Jspark-sogou-pro</module>
+        <module>Jspark-peopleinfo-pro</module>
     </modules>
     <packaging>pom</packaging>
 

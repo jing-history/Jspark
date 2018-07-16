@@ -1,7 +1,7 @@
 package ml.jinggo
 
-import java.io.FileWriter
-import java.io.File
+import java.io.{File, FileWriter}
+
 import scala.util.Random
 
 object PeopleInfoFileGenerator {

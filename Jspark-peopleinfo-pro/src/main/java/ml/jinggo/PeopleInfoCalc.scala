@@ -1,7 +1,6 @@
 package ml.jinggo
 
-import org.apache.spark.SparkConf
-import org.apache.spark.SparkContext
+import org.apache.spark.{SparkConf, SparkContext}
 
 object PeopleInfoCalc {
   def main(args: Array[String]): Unit = {
