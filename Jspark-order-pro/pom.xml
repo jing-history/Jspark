@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Jspark-peopleinfo-pro</artifactId>
+    <artifactId>Jspark-order-pro</artifactId>
 
     <build>
         <plugins>
@@ -46,7 +46,7 @@
                     <launchers>
                         <launcher>
                             <id>app</id>
-                            <mainClass>ml.jinggo.PeopleInfoCalc</mainClass>
+                            <mainClass>ml.jinggo.ProductSalesInfo</mainClass>
                             <args>
                                 <arg>-deprecation</arg>
                             </args>
