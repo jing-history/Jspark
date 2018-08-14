@@ -10,6 +10,7 @@
     <modules>
         <module>Jspark-peopleinfo-pro</module>
         <module>Jspark-order-pro</module>
+        <module>Jspark-product-pro</module>
     </modules>
     <packaging>pom</packaging>
 
